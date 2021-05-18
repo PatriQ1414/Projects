@@ -9,4 +9,4 @@
 * Installed PHP
 * Created a Virtual Host for the Website [Website](https://drive.google.com/file/d/1yGPj-4v6TvoSOit5NLfuRGFlzETlCojm/view?usp=sharing)
 * Enabled PHP Website [PHP Website](https://drive.google.com/file/d/1jL-fhMJTQ2swXM1bAjSIbc2D3eFPc8I5/view?usp=sharing)
-* Finally deleted
+* Finally deleted the index.php file using the rm command
